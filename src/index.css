@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.weather-report-bg{
+    background-image:url(./assets/Weather-report.png) ;
+}
+
+.menacing-bg{
+    background-image:url(./assets/ujlkbuk1zx341.webp) ;
+}
